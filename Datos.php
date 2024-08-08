@@ -17,9 +17,9 @@ $total_pagar=$suma-$descuento;
 echo "productos:";
 echo "$nombre1,$nombre2,$nombre3";
 echo "<'/br'>";
-echo "suma de precios: "$suma;
+echo "suma de precios: ".$suma;
 echo "<'/br'>";
-echo "Descuento: "$descuento;
+echo "Descuento: ".$descuento;
 echo "<'/br'>";
-echo "total a pagar: "$total_pagar;
+echo "total a pagar: ".$total_pagar;
 ?>
